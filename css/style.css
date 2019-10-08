@@ -1,0 +1,15 @@
+.navbar-brand:hover{
+    background-color: rgb(134, 193, 230);
+   
+   
+}
+
+header{
+    background-color: rgb(43, 65, 83);
+    font-weight: bolder;
+    
+}
+label {
+    font-weight: bolder;
+}
+
